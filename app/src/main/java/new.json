@@ -1,0 +1,10 @@
+{
+  "latest_version_code": 2,
+  "latest_version_name": "2.0",
+  "update_url": "https://github.com/studywithsunny17744-svg/online-apk/raw/refs/heads/main/app-debug.apk",
+  "update_notes": "🚀 Major AI Performance Update\n✅ New Force Update System\n🛠 Minor Bug Fixes",
+  "is_force_update": true,
+  "maintenance_mode": false,
+  "is_app_enabled": true,
+  "maintenance_message": "Server is upgrading to Mani 272 AI v2.0. Please wait..."
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#FF000000</color>
+    <color name="dark_surface">#FF121218</color>
+    <color name="neon_cyan">#FF00E5FF</color>
+    <color name="neon_purple">#FF7C4DFF</color>
+    <color name="white">#FFF5F5F5</color>
+</resources>
